@@ -1,6 +1,6 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm S</h1>
 
-<img src="https://i.ibb.co/Q3WtfXc3/1086951-F18-D669-FB54-BC8-F6-CCCD5-C2-C6.png" alt="Banner" width="100%" />
+<img src="https://i.ibb.co/tpL2s7Vv/788-E32247-D5-E487-ABBAAD98-FED0-ECB0-C.png" alt="Banner" width="100%" />
 
 ## 🔗 Connect with Me
 <p align="center">
@@ -26,3 +26,4 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
 </div>
+
