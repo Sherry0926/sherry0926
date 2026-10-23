@@ -10,7 +10,7 @@
   <a href="y">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="Kuromi.wtf">
+  <a href="https://Kuromi.wtf">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
 </p>
